@@ -21,7 +21,6 @@ src="https://img.shields.io/github/followers/kavithashanmugan?logo=github&style=
 
 # Badges 
 
-[![An image of @kavithashanmugan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavithashanmugan)](https://holopin.io/@kavithashanmugan)
 
 <b>My GitHub Stats</b>
 
