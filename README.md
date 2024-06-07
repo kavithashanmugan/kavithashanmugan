@@ -2,9 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack Blockchain Developer | MERN Stack</h4>
 
-- 🔭 I’m currently building projects using NestJS,NextJS and postgreSQL
-- 🌱 I’m Interested to work on Web 3.0 
-- 💬 Ask me about Blockchain
+- 🔭 I’m currently building projects using NestJS,NextJS and PostgreSQL
 - 📫 How to reach me: kavitha.shanmugan@gmail.com
 
 <a href="https://www.github.com/kavithashanmugan" target="_blank" rel="noreferrer"><img
